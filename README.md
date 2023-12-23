@@ -11,6 +11,7 @@
   <section>
   <details>
     <summary>Clique aqui para ler em português</summary>
+    <br>
     <p>Esse é um jogo divertido, no qual você precisa adivinhar um numero aleatorio secreto</p>
     <br>
     <p>Ele é gerado aleatóriamente e você pode jogar com uma extensão que compile C no VS Code ou no Dev C++ e se divertir, é muito simple e eu fiz esse jogo pra um trabalho da faculdade</p>    
